@@ -34,7 +34,6 @@
       <?php echo "<h4>Course: ICS20 Programming</h4>" ?>
       <br>
       <!--User Input-->
-      <?php echo "<p>With this calculator, which was coded in PHP, you will be able to solve any rectangular prism. Whether you're trying to calculate the volume of a box or that shelf that you've been meaning to install, this calculator has got you covered! </p>" ?>
       <?php echo "<h3>Please enter the following:</h3>" ?>
       <form action="./results.php" method="post" target="result">
         <label for="prism-base-1">Base 1 (cm):</label>
